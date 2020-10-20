@@ -1,0 +1,49 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>Cat Cafe</title>
+</head>
+<body>
+<h1>Cat Cafe</h1>
+<div id ="box1">
+<div class = "title">
+<h4>About Us</h4>
+</div>
+<p>Cat cafe is a Kitten Cafe located in Cincinnati, Ohio. It is owned by the trio of Nathan Richards, Molly Cannon, and Mckinley Rosa</p>
+</div>
+<div id="box2">
+<div class="title">
+<h4>About the Owners</h4>
+</div>
+<h1>Nathan Richards</h1>
+<p>Nathan has always had a love for animals. got his first kitten as a freshman in highschool.</p>
+<h1>Molly Cannon</h1>
+<p>This is still under construction</p>
+<h1>Mckinley Rosa</h1>
+<p>This is still under construction</p>
+</div>
+<div id="box3">
+<div class="title">
+<h4>Social Media Links</h4>
+</div>
+<ul class ="style1">
+<li><a href="https://twitter.com">Cat Cafe Twitter</a></li>
+<li><a href="https://twitter.com/NRichards_86">Nathan Richards Personal Twitter</a></li>
+<li><a href="https://facebook.com">Cat Cafe Facebook</a></li>
+<li><a href:"https://www.facebook.com/nathanrichards007">Nathan Richrards Facebook</a></li>
+<li><a href:"https://youtube.com">Cat Cafe Youtube Channel</a></li>
+</ul>
+</div>
+<div id="box4">
+<div class="contact">
+<h4>Contact Us</h4>
+</div>
+<ul>
+<li><p>Number: (555)-555-5555</p></li>
+<li><a href:"https://gmail.com">Email</a></li>
+<li><p>Address: 11111 Blankman Ave Cincinnati, Ohio 44444</p>
+</ul>
+</div>
+<<h1>Copyright</h1>
+<div class="copyright">&copy;2021 Cat Cafe All Rights Reserved
+</div>
